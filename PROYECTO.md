@@ -1,7 +1,3 @@
-¡Genial! Vamos a diseñar un **proyecto de detección de imágenes** con **Redes Convolucionales (CNNs)** para **clasificación de imágenes y detección de objetos**. Lo estructuraremos paso a paso.
-
----
-
 ## 🎯 **Proyecto: Red Neuronal para Clasificación de Imágenes con CNNs**
 
 ### 📌 **Objetivo del Proyecto**
